@@ -2,23 +2,6 @@
       <img src="https://user-images.githubusercontent.com/59374587/122830149-4f3dc700-d2be-11eb-9fe2-316561d10772.png" width="100" alt="Logo PayFlow"/>
 </p>
 
-<h2 align="center">Topics 📋</h2>
-
-   <p>
-   
-   - [About 📖](#about-)
-   - [Layout 🎨](#layout-)
-   - [Functionalities 🛠️](#functionalities-%EF%B8%8F)
-   - [Challenges and Learnings along the way 🤯](#challenges-and-learnings-along-the-way-)
-   - [Notion Files 📋](#notion-file-)
-   - [How to Use 🤔](#how-to-use-)
-   - [How to Contribute 💪](#how-to-contribute-)
-   - [License 📝](#license-)
-
-   </p>
-
----
-
 <h2 align="center">About 📖</h2>
 
 <p align="center">
@@ -62,18 +45,6 @@
 
 ---
 
-<h2 align="center">Challenges and Learnings along the way 🤯</h2>
-
-   <p>
-   This was the most intense week of my life. And this NLW was super special for me, because in addition to always being that amazing week in all aspects, in this edition I had my first experience participating in the Rocketseat team. <br>
-   In addition to the usual challenge, which was to reconcile the time to take classes, study and take notes, in this edition I had to reconcile all of this, plus my work in helping people in the community and my intention was that my participation was the most fast, active, practical... the best of them all!<br>
-   The focus was on working my ass off and having an intense week. And that led me to give up a lot of things, but it helped me to have a new perspective on a lot of things, and the main one was that: "you can always do more, you can always be better and become better, success is trainable.". And man, I felt that, and I know I can do all of this, I want to always be better, and prepare myself to be and give my best. <br>
-   I managed to stand out in the week, being the TOP1 member 🥇 of the entire community, with more messages / answers / help / and other types of help and participation.<br>
-   Rocketseat provided me and is providing me with an amazing experience! It's amazing to be here. And I will do my best! 💜
-   </p>
-
----
-
 <h2 align="center">Notion File 📋</h2>
 
 - [Flutter Trail](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3) 🚀
@@ -86,7 +57,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/payflow payflow
+   $ git clone https://github.com/mateusvicente100/payflow payflow
 
    - Enter in directory:
    $ cd payflow
@@ -114,18 +85,4 @@
    - Submit your changes:
    $ git push origin my-feature
    ```
-
----
-
-<h2 align="center">License 📝</h2>
-
-<p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/felipecastrosales/payflow/blob/master/LICENSE">LICENSE</a> file for more details. 😉
-</p>
-
-   ---
-
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek from **[Rocketseat](https://rocketseat.com.br/)**.<br>
-   If it helped you, give ⭐, contribute, it will help me too 😉
-
 ---
